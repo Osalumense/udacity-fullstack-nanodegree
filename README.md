@@ -1,4 +1,4 @@
-# Udacity FUllstack Nanodegree Program
+# Udacity Fullstack Nanodegree Program
 
 This repository contains codes from my Full stack Nano degree program on Udacity. 
 
